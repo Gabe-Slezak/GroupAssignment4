@@ -1,4 +1,4 @@
-employeeID, firstName, lastName, phoneNumber, workHours/Week
+employeeID, firstName, lastName, phoneNumber, workHours
 12345, Sally, Smith, 8144121234, 40
 23456, Tom, Harris, 8144122345, 39
 34567, Larry, Thomas, 8144123456, 41
