@@ -1,1 +1,6 @@
-
+employeeID, firstName, lastName, phoneNumber, workHours/Week
+12345, Sally, Smith, 8144121234, 40
+23456, Tom, Harris, 8144122345, 39
+34567, Larry, Thomas, 8144123456, 41
+45678, Steven, Lopez, 8144124567, 22
+56789, Susan, Mario, 8144125687, 20
